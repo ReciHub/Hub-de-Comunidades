@@ -15,7 +15,7 @@ Ecossistema de criação de soluções incríveis
 
 ### Canais
 [GitHub](https://github.com/ReciHub/BoasVindas)
-[Slack](https://recihub.slack.com/join/shared_invite/enQtMjcxMDA3NDUzNTg3LTk5NzIzYmM2Y2QwMzQ5NGY5NDFmNmNlNzVkNzRjNTYwMTk3M2E0OWRkYzA1MmY1MjA2MThhZTUzNDVkZDBlMzU]
+[Slack](https://recihub.slack.com/join/shared_invite/enQtMjcxMDA3NDUzNTg3LTk5NzIzYmM2Y2QwMzQ5NGY5NDFmNmNlNzVkNzRjNTYwMTk3M2E0OWRkYzA1MmY1MjA2MThhZTUzNDVkZDBlMzU)
 [Página no Facebook](https://facebook.com/recihub/)
 [Grupo do Facebook](https://www.facebook.com/groups/153306045298627/)
 
