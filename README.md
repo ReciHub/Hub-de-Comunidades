@@ -14,10 +14,10 @@ Ecossistema de criação de soluções incríveis
 - Introduzir novas pesssoas à novas tecnologias através de palestras e workshops
 
 ### Canais
-[GitHub](https://github.com/ReciHub/BoasVindas)
-[Slack](https://recihub.slack.com/join/shared_invite/enQtMjcxMDA3NDUzNTg3LTk5NzIzYmM2Y2QwMzQ5NGY5NDFmNmNlNzVkNzRjNTYwMTk3M2E0OWRkYzA1MmY1MjA2MThhZTUzNDVkZDBlMzU)
-[Página no Facebook](https://facebook.com/recihub/)
-[Grupo do Facebook](https://www.facebook.com/groups/153306045298627/)
+- [GitHub](https://github.com/ReciHub/BoasVindas)
+- [Slack](https://recihub.slack.com/join/shared_invite/enQtMjcxMDA3NDUzNTg3LTk5NzIzYmM2Y2QwMzQ5NGY5NDFmNmNlNzVkNzRjNTYwMTk3M2E0OWRkYzA1MmY1MjA2MThhZTUzNDVkZDBlMzU)
+- [Página no Facebook](https://facebook.com/recihub/)
+- [Grupo do Facebook](https://www.facebook.com/groups/153306045298627/)
 
 ## Sua comunidade
 
