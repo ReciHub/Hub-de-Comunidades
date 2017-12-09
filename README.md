@@ -1,2 +1,3 @@
-# Hub-de-Comunidades
-Lista de comunidades arretada de Pernambuco
+# Hub de comunidades
+
+Mapeamento das comunidades mais arretadas do estado de Pernambuco - Brazil :brazil:
