@@ -44,8 +44,8 @@ Se um membro da comunidade se envolver em um comportamento inaceitável, os orga
 
 Se você está sujeito ou testemunha um comportamento inaceitável, ou tem outras preocupações, notifique um organizador da comunidade o mais rápido possível. Através dos emails, selecione o email de um dos organizadores em que você se sinta mais confortável para realizar a denúncia:
 
-Otacilio Maia - [contato@otaciliomaia.com](mailto:contato@otaciliomaia.com)
-Thiago Augusto - [tasm2@cin.ufpe.br](mailto:tasm2@cin.ufpe.br)
+ - Otacilio Maia - [contato@otaciliomaia.com](mailto:contato@otaciliomaia.com)
+ - Thiago Augusto - [tasm2@cin.ufpe.br](mailto:tasm2@cin.ufpe.br)
 
 Além disso, os organizadores da comunidade estão disponíveis para ajudar os membros da comunidade a se envolverem com a aplicação da lei local ou, de outra forma, ajudar aqueles que vivenciam comportamentos inaceitáveis e se sentem seguros. No contexto de evento, em pessoa, os organizadores também fornecerão escoltas conforme desejado pela pessoa que está necessitando.
 
@@ -66,8 +66,8 @@ O ReciHub é feito por pessoas, e que podem ser contatadas em um nível pessoal 
 Para contato através de email você pode optar por contatar os organizadores individualmente ou enviar um email para todos os organizadores em cópia:
 
 Lista de organizadores - [Organizadores em cópia](mailto:contato@otaciliomaia.com,tasm2@cin.ufpe.br)
-Otacilio Maia - [contato@otaciliomaia.com](mailto:contato@otaciliomaia.com)
-Thiago Augusto - [tasm2@cin.ufpe.br](mailto:tasm2@cin.ufpe.br)
+ - Otacilio Maia - [contato@otaciliomaia.com](mailto:contato@otaciliomaia.com)
+ - Thiago Augusto - [tasm2@cin.ufpe.br](mailto:tasm2@cin.ufpe.br)
 
 ## 9. Licença e Atribuições
 
