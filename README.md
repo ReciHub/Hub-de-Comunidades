@@ -59,6 +59,20 @@ Comunidade de Realidade Virtual de Pernambuco
 - [Grupo no Facebook](https://www.facebook.com/groups/1377847215641302/)
 <br>
 
+## PUG-PE
+
+### Sobre
+O PUG-PE (Python User Group Pernambuco) é uma comunidade de usuários (profissionais e amadores) da linguagem Python, onde prezamos pela troca de conhecimento, respeito mútuo e diversidade (tanto de opinião quanto de tecnologias).
+
+Realizamos encontros em forma de palestras e workshops para divulgar a linguagem Python no estado, se deseja levar a linguagem a sua empresa, universidade ou qualquer outra instituição entre em contato conosco através da lista de e-mail do Google Groups
+
+### Canais
+- [Google Groups](https://groups.google.com/forum/#!forum/pug-pe)
+- [Facebook](https://www.facebook.com/pugpe)
+- [Twitter](https://twitter.com/pugpe)
+- [Eventos](http://www.pug.pe)
+- [Website](http://pugpe.github.io)
+
 ## Sua comunidade
 
 ### Descrição 
