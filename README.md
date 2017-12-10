@@ -7,6 +7,7 @@ _Mapeamento das comunidades mais **arretadas** do estado de Pernambuco - Brasil 
 - [ReciHub](https://github.com/ReciHub/Hub-de-Comunidades#recihub)
 - [Makerama](https://github.com/ReciHub/Hub-de-Comunidades#makerama)
 - [VRPE](https://github.com/ReciHub/Hub-de-Comunidades#vrpe)
+- [PUG-PE](https://github.com/ReciHub/Hub-de-Comunidades#pug-pe)
 <br>
 
 ## ReciHub
@@ -72,6 +73,7 @@ Realizamos encontros em forma de palestras e workshops para divulgar a linguagem
 - [Twitter](https://twitter.com/pugpe)
 - [Eventos](http://www.pug.pe)
 - [Website](http://pugpe.github.io)
+<br>
 
 ## Sua comunidade
 
