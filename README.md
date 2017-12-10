@@ -37,6 +37,18 @@ Comunidade de fomento a **Cultura Maker**
 - [Twitter](https://twitter.com/makerama)
 - [Site](http://makerama.com.br/)
 
+## VRPE
+
+### Sobre
+Comunidade de Realidade Virtual de Pernambuco
+
+### Objetivos
+- Promover o networking entre profissionais e leigos em Realidades Estendidas (VR, AR e XR) através de meetups mensais;
+- Discutir e compartilhar novidades, noticias e oportunidades sobre o mercado e pesquisa de Realidades Estendidas.
+
+### Canais
+- [Grupo no Facebook](https://www.facebook.com/groups/1377847215641302/)
+
 ## Sua comunidade
 
 ### Descrição 
