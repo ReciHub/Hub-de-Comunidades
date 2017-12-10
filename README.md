@@ -19,6 +19,24 @@ Ecossistema de criação de soluções incríveis
 - [Página no Facebook](https://facebook.com/recihub/)
 - [Grupo do Facebook](https://www.facebook.com/groups/153306045298627/)
 
+## Makerama
+
+### Sobre
+Comunidade de fomento a **Cultura Maker**
+
+### Objetivos
+- Proporcionar o networking entre makers, tecnólogos, professores, artistas e quaisquer pessoa interessada em aprender e ensinar tecnologia;
+- Promover encontros, palestras e workshops que abordem tecnologias emergentes, Internet das Coisas, domótica, eletrônica e demais assuntos relacionados ao universo maker;
+- Apoiar o desenvolvimento de projetos com tecnologias embarcadas;
+- Difundir conhecimentos e experiências.
+
+### Canais
+- [GitHub](https://github.com/Makerama)
+- [Facebook](https://www.facebook.com/Makerama.br/)
+- [Instagram](https://www.instagram.com/makerama.br/)
+- [Twitter](https://twitter.com/makerama)
+- [Site](http://makerama.com.br/)
+
 ## Sua comunidade
 
 ### Descrição 
