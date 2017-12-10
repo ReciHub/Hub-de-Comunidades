@@ -1,4 +1,4 @@
-# Hub de comunidades
+# Hub de Comunidades
 
 _Mapeamento das comunidades mais **arretadas** do estado de Pernambuco - Brasil :brazil:_
 
@@ -30,4 +30,4 @@ Comunidades são sempre bem vindas por aqui, crie um fork do repositório, adici
 - Ter novos membros e engajar mais os membros já pertencentes
 
 ### Saia da caixa
-Modelos são legais de serem seguidos, mas nada aqui é definitivo e tudo é construído de forma colaborativa, acrescente os tópicos que achar necessário e quem sabe isso não vira um padrão?
+Modelos são legais de serem seguidos, mas nada aqui é definitivo e tudo é construído de forma colaborativa. Acrescente os tópicos que achar necessário e quem sabe isso não vira um padrão?
