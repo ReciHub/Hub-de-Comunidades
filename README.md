@@ -7,6 +7,7 @@ _Mapeamento das comunidades mais **arretadas** do estado de Pernambuco - Brasil 
 - [ReciHub](https://github.com/ReciHub/Hub-de-Comunidades#recihub)
 - [Makerama](https://github.com/ReciHub/Hub-de-Comunidades#makerama)
 - [VRPE](https://github.com/ReciHub/Hub-de-Comunidades#vrpe)
+<br>
 
 ## ReciHub
 
@@ -24,6 +25,7 @@ Ecossistema de criação de soluções incríveis
 - [Slack](https://recihub.slack.com/join/shared_invite/enQtMjcxMDA3NDUzNTg3LTk5NzIzYmM2Y2QwMzQ5NGY5NDFmNmNlNzVkNzRjNTYwMTk3M2E0OWRkYzA1MmY1MjA2MThhZTUzNDVkZDBlMzU)
 - [Página no Facebook](https://facebook.com/recihub/)
 - [Grupo do Facebook](https://www.facebook.com/groups/153306045298627/)
+<br>
 
 ## Makerama
 
@@ -42,6 +44,7 @@ Comunidade de fomento a **Cultura Maker**
 - [Instagram](https://www.instagram.com/makerama.br/)
 - [Twitter](https://twitter.com/makerama)
 - [Site](http://makerama.com.br/)
+<br>
 
 ## VRPE
 
@@ -54,6 +57,7 @@ Comunidade de Realidade Virtual de Pernambuco
 
 ### Canais
 - [Grupo no Facebook](https://www.facebook.com/groups/1377847215641302/)
+<br>
 
 ## Sua comunidade
 
