@@ -8,7 +8,7 @@ _Mapeamento das comunidades mais **arretadas** do estado de Pernambuco - Brasil 
 - [Makerama](https://github.com/ReciHub/Hub-de-Comunidades#makerama)
 - [VRPE](https://github.com/ReciHub/Hub-de-Comunidades#vrpe)
 - [PUG-PE](https://github.com/ReciHub/Hub-de-Comunidades#pug-pe)
-- [Chatbot Pernambuco](https://github.com/ReciHub/Hub-de-Comunidades#chatbotpernambuco)
+- [Chatbot Pernambuco](https://github.com/ReciHub/Hub-de-Comunidades#chatbot-pernambuco)
 <br>
 
 ## ReciHub
