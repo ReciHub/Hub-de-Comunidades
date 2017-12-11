@@ -82,7 +82,7 @@ Realizamos encontros em forma de palestras e workshops para divulgar a linguagem
 A Chatbot Pernambuco é uma comunidade de pessoas interessadas e engajadas a explorar, compartilhar e aprender mais sobre assuntos relacionados ao nosso tema principal, bots.
 No final de cada mês promovemos um meetup para conectar toda a galera. Também, realizamos uma série de outros eventos, como, hangouts, conferências e muito mais.
 
-Precisamos de você para construímos um ecossistema mais rico, colaborativo e saudável.
+Precisamos de você para construímos uma comunidade mais rica, colaborativa e saudável.
 
 ### Canais
 - [Facebook](https://www.facebook.com/groups/247260785715123/?ref=br_rs)
