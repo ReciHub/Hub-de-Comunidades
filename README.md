@@ -87,8 +87,8 @@ Precisamos de você para construímos um ecossistema mais rico, colaborativo e s
 ### Canais
 - [Facebook](https://www.facebook.com/groups/247260785715123/?ref=br_rs)
 - [Telegram](https://t.me/joinchat/A2nfP0NNXyU_ivF_TzD8DQ)
-
 <br>
+
 ## Sua comunidade
 
 ### Descrição 
