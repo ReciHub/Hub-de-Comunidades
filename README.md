@@ -8,6 +8,7 @@ _Mapeamento das comunidades mais **arretadas** do estado de Pernambuco - Brasil 
 - [Makerama](https://github.com/ReciHub/Hub-de-Comunidades#makerama)
 - [VRPE](https://github.com/ReciHub/Hub-de-Comunidades#vrpe)
 - [PUG-PE](https://github.com/ReciHub/Hub-de-Comunidades#pug-pe)
+- [Chatbot Pernambuco](https://github.com/ReciHub/Hub-de-Comunidades#chatbotpernambuco)
 <br>
 
 ## ReciHub
@@ -75,6 +76,19 @@ Realizamos encontros em forma de palestras e workshops para divulgar a linguagem
 - [Website](http://pugpe.github.io)
 <br>
 
+## Chatbot Pernambuco
+
+### Sobre
+A Chatbot Pernambuco é uma comunidade de pessoas interessadas e engajadas a explorar, compartilhar e aprender mais sobre assuntos relacionados ao nosso tema principal, bots.
+No final de cada mês promovemos um meetup para conectar toda a galera. Também, realizamos uma série de outros eventos, como, hangouts, conferências e muito mais.
+
+Precisamos de você para construímos um ecossistema mais rico, colaborativo e saudável.
+
+### Canais
+- [Facebook](https://www.facebook.com/groups/247260785715123/?ref=br_rs)
+- [Telegram](https://t.me/joinchat/A2nfP0NNXyU_ivF_TzD8DQ)
+
+<br>
 ## Sua comunidade
 
 ### Descrição 
