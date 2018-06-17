@@ -9,6 +9,7 @@ _Mapeamento das comunidades mais **arretadas** do estado de Pernambuco - Brasil_
 - [VRPE](https://www.facebook.com/groups/1377847215641302/)
 - [PUG-PE](http://pugpe.github.io)
 - [Chatbot Pernambuco](https://www.facebook.com/groups/247260785715123/?ref=br_rs)
+- [Geek Night Recife](https://geeknightrecife.github.io/A)
 <br>
 
 ## ReciHub
@@ -87,6 +88,18 @@ Precisamos de você para construímos uma comunidade mais rica, colaborativa e s
 ### Canais
 - [Facebook](https://www.facebook.com/groups/247260785715123/?ref=br_rs)
 - [Telegram](https://t.me/joinchat/A2nfP0NNXyU_ivF_TzD8DQ)
+<br>
+
+## Geek Night Recife
+
+### Sobre
+A Geek Night é um encontro informal mensal onde escolhemos e discutimos sobre um tópico de tecnologia relevante/interessante. Esperamos criar um espaço para discussão de idéias, tecnologias e técnicas no campo do desenvolvimento de software. Pode ser um grupo de pessoas trabalhando em um projeto open source ou trazer seu próprio projeto para trabalharmos.
+
+### Canais
+- [Site](https://geeknightrecife.github.io/)
+- [GitHub](https://github.com/geeknightrecife)
+- [Slack](https://slackgeeknightrecife.herokuapp.com/)
+- [Facebook Group](https://www.facebook.com/groups/geeknightrecife/about/)
 <br>
 
 ## Sua comunidade
