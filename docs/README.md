@@ -9,7 +9,7 @@ _Mapeamento das comunidades mais **arretadas** do estado de Pernambuco - Brasil_
 - [VRPE](https://www.facebook.com/groups/1377847215641302/)
 - [PUG-PE](http://pugpe.github.io)
 - [Chatbot Pernambuco](https://www.facebook.com/groups/247260785715123/?ref=br_rs)
-- [Geek Night Recife](https://geeknightrecife.github.io/A)
+- [Geek Night Recife](https://geeknightrecife.github.io/)
 <br>
 
 ## ReciHub
