@@ -10,6 +10,8 @@ _Mapeamento das comunidades mais **arretadas** do estado de Pernambuco - Brasil 
 - [PUG-PE](https://github.com/ReciHub/Hub-de-Comunidades#pug-pe)
 - [Chatbot Pernambuco](https://github.com/ReciHub/Hub-de-Comunidades#chatbot-pernambuco)
 - [Geek Night Recife](https://github.com/ReciHub/Hub-de-Comunidades#geek-night-recife)
+- [FEMUG-PE](https://github.com/ReciHub/Hub-de-Comunidades#femug-pe)
+- [OXENTI-PE](https://github.com/ReciHub/Hub-de-Comunidades#oxenti-pe)
 <br>
 
 ## ReciHub
@@ -100,6 +102,34 @@ A Geek Night é um encontro informal mensal onde escolhemos e discutimos sobre u
 - [GitHub](https://github.com/geeknightrecife)
 - [Slack](https://slackgeeknightrecife.herokuapp.com/)
 - [Facebook Group](https://www.facebook.com/groups/geeknightrecife/about/)
+<br>
+
+## FEMUG-PE
+
+### Sobre
+O "Front-End Meet-Up Group" é um projeto que nasceu da necessidade de unir os desenvolvedores Front-End, e então tornou-se uma ideia coletiva, para que o acesso à informação seja feito em qualquer lugar que haja interesse do aprendizado.
+
+O evento NÃO pode visar o lucro de um ou mais organizadores. É igualmente restritivo a prática de qualquer preconceito em relação a qualquer pessoa que tenha interesse de aprender ou qualquer tecnologia.
+
+Trata-se de um evento para pessoas interessadas em aprender, evoluir e dividir conhecimentos relacionados ao front-end e tecnologias periféricas relacionadas.
+
+### Canais
+ - [Telegram](https://goo.gl/qp7Jrw) 
+ - [Meetup](https://bit.ly/2LtCpYx)
+ - [Facebook](https://bit.ly/2zTiQEp)
+ - [Github](https://github.com/FEMUGPE)
+<br>
+
+## OxenTI-PE
+
+### Sobre
+Somos o conjunto da comunidade de TI do Grande Recife-PE.
+O OxenTI-PE nasceu da necessidade de unir as comunidades locais em um só lugar para que quem não conhce, conheça a nossa força! 
+
+### Canais
+ - [Slack](https://oxentipe-slack-invite.herokuapp.com/) 
+ - [Facebook](https://www.facebook.com/oxenti.pe/)
+ - [Github](https://github.com/oxenTI-PE)
 <br>
 
 ## Sua comunidade
