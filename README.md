@@ -12,6 +12,7 @@ _Mapeamento das comunidades mais **arretadas** do estado de Pernambuco - Brasil 
 - [Geek Night Recife](https://github.com/ReciHub/Hub-de-Comunidades#geek-night-recife)
 - [FEMUG-PE](https://github.com/ReciHub/Hub-de-Comunidades#femug-pe)
 - [OXENTI-PE](https://github.com/ReciHub/Hub-de-Comunidades#oxenti-pe)
+- [Manguez.al](https://github.com/ReciHub/Hub-de-Comunidades#manguezal)
 <br>
 
 ## ReciHub
@@ -130,6 +131,17 @@ O OxenTI-PE nasceu da necessidade de unir as comunidades locais em um só lugar 
  - [Slack](https://oxentipe-slack-invite.herokuapp.com/) 
  - [Facebook](https://www.facebook.com/oxenti.pe/)
  - [Github](https://github.com/oxenTI-PE)
+<br>
+
+## Manguez.al
+
+### Sobre
+MANGUEZAL é uma comunidade de startups do Recife para apoiar práticas colaborativas e aprendizagem de tecnologia, design e empreendedorismo em todo o ecossistema de inicialização.
+
+Nossos principais objetivos são: (1) promover discussões de alto nível, eventos e uma programação educacional aprendendo por fazer para atender às necessidades de empreendedores de alto potencial e avançar no ecossistema de inicialização em Recife; (2) dar visibilidade aos nossos startups iniciais apresentando-os a investidores anjos e fundos de capital de risco e (3) estimular o intercâmbio entre as startups do Recife e outras startups ao redor do mundo.
+
+### Canais
+ - [Facebook](https://www.facebook.com/manguezalstartups/)
 <br>
 
 ## Sua comunidade
