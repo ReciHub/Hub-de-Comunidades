@@ -4,15 +4,15 @@ _Mapeamento das comunidades mais **arretadas** do estado de Pernambuco - Brasil 
 
 ## Índice
 
-- [ReciHub](https://github.com/ReciHub/Hub-de-Comunidades#recihub)
-- [Makerama](https://github.com/ReciHub/Hub-de-Comunidades#makerama)
-- [VRPE](https://github.com/ReciHub/Hub-de-Comunidades#vrpe)
-- [PUG-PE](https://github.com/ReciHub/Hub-de-Comunidades#pug-pe)
-- [Chatbot Pernambuco](https://github.com/ReciHub/Hub-de-Comunidades#chatbot-pernambuco)
-- [Geek Night Recife](https://github.com/ReciHub/Hub-de-Comunidades#geek-night-recife)
-- [FEMUG-PE](https://github.com/ReciHub/Hub-de-Comunidades#femug-pe)
-- [OXENTI-PE](https://github.com/ReciHub/Hub-de-Comunidades#oxenti-pe)
-- [Manguez.al](https://github.com/ReciHub/Hub-de-Comunidades#manguezal)
+- [ReciHub](#recihub)
+- [Makerama](#makerama)
+- [VRPE](#vrpe)
+- [PUG-PE](#pug-pe)
+- [Chatbot Pernambuco](#chatbot-pernambuco)
+- [Geek Night Recife](#geek-night-recife)
+- [FEMUG-PE](#femug-pe)
+- [OXENTI-PE](#oxenti-pe)
+- [Manguez.al](#manguezal)
 <br>
 
 ## ReciHub
