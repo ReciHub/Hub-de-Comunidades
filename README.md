@@ -13,6 +13,7 @@ _Mapeamento das comunidades mais **arretadas** do estado de Pernambuco - Brasil 
 - [FEMUG-PE](#femug-pe)
 - [OXENTI-PE](#oxenti-pe)
 - [Manguez.al](#manguezal)
+- [React Ladies](#react-ladies)
 <br>
 
 ## ReciHub
@@ -143,6 +144,16 @@ Nossos principais objetivos são: (1) promover discussões de alto nível, event
 ### Canais
  - [Facebook](https://www.facebook.com/manguezalstartups/)
 <br>
+
+## [React Ladies](https://github.com/ReactLadies/)
+
+### Sobre
+Nascida em Pernambuco, a ReactLadies é uma iniciativa que pretende encorajar garotas a darem start em suas carreiras como desenvolvedoras web. É também um grupo colaborativo de apoio para que possamos juntas tirar ideias do papel, e encher a plataforma de muito talento e outras coisas legais.
+
+### Canais
+ - [Facebook](https://www.facebook.com/groups/250704422250774/)
+ - [Twitter](https://twitter.com/ReactLadies)
+ - [Github](https://github.com/ReactLadies/whoami)
 
 ## Sua comunidade
 
