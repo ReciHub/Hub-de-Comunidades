@@ -150,6 +150,13 @@ Nossos principais objetivos são: (1) promover discussões de alto nível, event
 ### Sobre
 Nascida em Pernambuco, a ReactLadies é uma iniciativa que pretende encorajar garotas a darem start em suas carreiras como desenvolvedoras web. É também um grupo colaborativo de apoio para que possamos juntas tirar ideias do papel, e encher a plataforma de muito talento e outras coisas legais.
 
+### Objetivos
+- Capacitar mulheres de modo a facilitar sua entrada no mercado de TI
+- Incentiva-las a iniciarem a carreia em desenvolvimento web
+- Desenvolver e aperfeiçoar o conhecimento adquirido
+- Difundir o conhecimento com a comunidade de desenvolvedoras
+- Aplicar o conhecimento obtido, em projetos aplicados diretamente à comunidade ou entidades carentes
+
 ### Canais
  - [Facebook](https://www.facebook.com/groups/250704422250774/)
  - [Twitter](https://twitter.com/ReactLadies)
