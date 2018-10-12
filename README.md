@@ -162,7 +162,7 @@ Nascida em Pernambuco, a ReactLadies é uma iniciativa que pretende encorajar ga
  - [Twitter](https://twitter.com/ReactLadies)
  - [Github](https://github.com/ReactLadies/whoami)
 
- 
+
 ## Sua comunidade
 
 ### Descrição 
