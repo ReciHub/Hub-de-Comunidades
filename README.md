@@ -145,7 +145,7 @@ Nossos principais objetivos são: (1) promover discussões de alto nível, event
  - [Facebook](https://www.facebook.com/manguezalstartups/)
 <br>
 
-## [React Ladies](https://github.com/ReactLadies/)
+## React Ladies
 
 ### Sobre
 Nascida em Pernambuco, a ReactLadies é uma iniciativa que pretende encorajar garotas a darem start em suas carreiras como desenvolvedoras web. É também um grupo colaborativo de apoio para que possamos juntas tirar ideias do papel, e encher a plataforma de muito talento e outras coisas legais.
