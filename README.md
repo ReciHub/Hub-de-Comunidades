@@ -162,7 +162,6 @@ Nascida em Pernambuco, a ReactLadies √© uma iniciativa que pretende encorajar ga
  - [Facebook](https://www.facebook.com/groups/250704422250774/)
  - [Twitter](https://twitter.com/ReactLadies)
  - [Github](https://github.com/ReactLadies/whoami)
-
  
 ## Women Who Code
 
@@ -185,7 +184,7 @@ O grupo de Recife foi fundado em 8 de Janeiro de 2014 com grande apoio e motiva√
  - [Faceboook](https://www.facebook.com/groups/wwcrecife/)
  - [Twitter](https://twitter.com/WWCode_Recife)
  - [Github](https://github.com/womenwhocoderecife)
-
+<br>
 
 ## Sua comunidade
 
