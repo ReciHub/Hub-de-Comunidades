@@ -186,10 +186,28 @@ O grupo de Recife foi fundado em 8 de Janeiro de 2014 com grande apoio e motiva�
  - [Github](https://github.com/womenwhocoderecife)
 <br>
 
+## Pyladies
+
+### Descrição 
+O PyLadies Recife é grupo para instigar mulheres para área de computação e serem líderes da comunidades Python de código aberto. Nós fazemos encontros mensal onde oferecemos palestras voltadas a diversos temas e também relacionados a Python.
+
+### Objetivos
+- Incentivar mulheres na área de tecnologia
+- Oferecer um ambiente seguro para que dúvidas e perguntas possam ser compartilhadas sem medo de julgamentos
+- Conectar com outras comunidades e compartilhar experiências
+- Ter novos membros e engajar mais os membros já pertencentes
+
+### Canais
+- [Facebook](https://www.facebook.com/pyladiesrecife/)
+- [Facebook Group](https://www.facebook.com/groups/1709787899313974/)
+- [WhatsApp](https://chat.whatsapp.com/IzWIofLs3h7HUAyCs5QexE)
+- [Instagram](https://www.instagram.com/pyladies.recife/)
+
+
 ## Sua comunidade
 
 ### Descrição 
-Comunidades são sempre bem vindas por aqui, crie um fork do repositório, adicione a sua comunidade e faça um Pull Request, [um guia mais completo de contribuição está disponível aqui.](https://github.com/ReciHub/Hub-de-Comunidades/blob/master/Contribuindo.md)
+Comunidades são sempre bem vindas por aqui, crie um fork do repositório, adicione a sua comunidade e faça um Pull Request
 
 ### Objetivos
 - Trazer visibilidade às comunidades
