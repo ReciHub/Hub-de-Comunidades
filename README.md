@@ -207,7 +207,7 @@ O PyLadies Recife é grupo para instigar mulheres para área de computação e s
 ## Sua comunidade
 
 ### Descrição 
-Comunidades são sempre bem vindas por aqui, crie um fork do repositório, adicione a sua comunidade e faça um Pull Request
+Comunidades são sempre bem vindas por aqui, crie um fork do repositório, adicione a sua comunidade e faça um Pull Request, [um guia mais completo de contribuição está disponível aqui.](https://github.com/ReciHub/Hub-de-Comunidades/blob/master/Contribuindo.md)
 
 ### Objetivos
 - Trazer visibilidade às comunidades
