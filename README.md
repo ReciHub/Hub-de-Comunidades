@@ -15,6 +15,7 @@ _Mapeamento das comunidades mais **arretadas** do estado de Pernambuco - Brasil 
 - [Manguez.al](#manguezal)
 - [React Ladies](#react-ladies)
 - [Women Who code](#women-who-code)
+- [Developer Circles Recife](#developer-circles-recife)
 <br>
 
 ## ReciHub
@@ -203,6 +204,17 @@ O PyLadies Recife é grupo para instigar mulheres para área de computação e s
 - [WhatsApp](https://chat.whatsapp.com/IzWIofLs3h7HUAyCs5QexE)
 - [Instagram](https://www.instagram.com/pyladies.recife/)
 
+## Developer Circles Recife
+
+### Descrição 
+O Developer Circles Recife é uma comunidade apoiada pelo Facebook com o objetivo de empoderar e conectar pessoas desenvolvedoras para que elas possam realizar impacto na sociedade. Nós, como comunidade, criamos eventos, meetups e workshops para trazer discussões de assuntos tecnológicos que possam agregar e oferecer conteúdo relevante a todos.
+
+### Objetivos
+- Empoderar e conectar pessoas desenvolvedoras
+- Criar eventos, meetups e workshops
+
+### Canais
+- [Facebook Group](https://www.facebook.com/groups/DevCRecife)
 
 ## Sua comunidade
 
