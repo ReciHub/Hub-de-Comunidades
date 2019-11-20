@@ -15,7 +15,7 @@ _Mapeamento das comunidades de tecnologia mais **arretadas** do estado de Pernam
 - [Manguez.al](#manguezal)
 - [React Ladies](#react-ladies)
 - [Women Who code](#women-who-code)
-- [Pyladies](#Pyladies)
+- [Pyladies](#pyladies)
 - [Developer Circles Recife](#developer-circles-recife)
 <br>
 
