@@ -1,6 +1,6 @@
 # Hub de Comunidades
 
-_Mapeamento das comunidades de tecnologia mais **arretadas** do estado de Pernambuco - Brasil :brazil:_
+_Mapeamento das comunidades de tecnologia mais **arretadas** do estado de Pernambuco - Brasil 🇧🇷_
 
 ## Índice
 
