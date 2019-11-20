@@ -17,6 +17,7 @@ _Mapeamento das comunidades de tecnologia mais **arretadas** do estado de Pernam
 - [Women Who code](#women-who-code)
 - [Pyladies](#pyladies)
 - [Developer Circles Recife](#developer-circles-recife)
+- [React Recife](#react-recife)
 <br>
 
 ## ReciHub
@@ -216,6 +217,22 @@ O Developer Circles Recife é uma comunidade apoiada pelo Facebook com o objetiv
 
 ### Canais
 - [Facebook Group](https://www.facebook.com/groups/DevCRecife)
+
+## React Recife
+
+### Descrição 
+Grupo para unir e fortalecer o ecossistema de React no Recife.
+
+### Objetivos
+- Trocar ideias sobre React, React Native, GraphQL, Relay, Flow, Jest, Redux, Flux, Webpack e outras tecnologias relacionadas
+- Conectar e desenvolver pessoas
+- Criar eventos, meetups e workshops
+
+### Canais
+- [Telegram](https://t.me/react_recife)
+- [Slack](https://react-brasil.github.io/react-brasil-slack/)
+- [Twitter](https://twitter.com/reactrecife)
+- [Email](reactrec@gmail.com)
 
 ## Sua comunidade
 
