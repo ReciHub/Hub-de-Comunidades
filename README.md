@@ -18,6 +18,7 @@ _Mapeamento das comunidades de tecnologia mais **arretadas** do estado de Pernam
 - [Pyladies](#pyladies)
 - [Developer Circles Recife](#developer-circles-recife)
 - [React Recife](#react-recife)
+- [GraphQL Recife](#graphql-recife)
 <br>
 
 ## ReciHub
@@ -120,7 +121,7 @@ O evento NÃO pode visar o lucro de um ou mais organizadores. É igualmente rest
 Trata-se de um evento para pessoas interessadas em aprender, evoluir e dividir conhecimentos relacionados ao front-end e tecnologias periféricas relacionadas.
 
 ### Canais
- - [Telegram](https://goo.gl/qp7Jrw) 
+ - [Telegram](https://goo.gl/qp7Jrw)
  - [Meetup](https://bit.ly/2LtCpYx)
  - [Facebook](https://bit.ly/2zTiQEp)
  - [Github](https://github.com/FEMUGPE)
@@ -130,10 +131,10 @@ Trata-se de um evento para pessoas interessadas em aprender, evoluir e dividir c
 
 ### Sobre
 Somos o conjunto da comunidade de TI do Grande Recife-PE.
-O OxenTI-PE nasceu da necessidade de unir as comunidades locais em um só lugar para que quem não conhce, conheça a nossa força! 
+O OxenTI-PE nasceu da necessidade de unir as comunidades locais em um só lugar para que quem não conhce, conheça a nossa força!
 
 ### Canais
- - [Slack](https://oxentipe-slack-invite.herokuapp.com/) 
+ - [Slack](https://oxentipe-slack-invite.herokuapp.com/)
  - [Facebook](https://www.facebook.com/oxenti.pe/)
  - [Github](https://github.com/oxenTI-PE)
 <br>
@@ -165,12 +166,12 @@ Nascida em Pernambuco, a ReactLadies é uma iniciativa que pretende encorajar ga
  - [Facebook](https://www.facebook.com/groups/250704422250774/)
  - [Twitter](https://twitter.com/ReactLadies)
  - [Github](https://github.com/ReactLadies/whoami)
- 
+
 ## Women Who Code
 
 ### Sobre
 
-Women Who Code é uma organização global, fundada no final de 2011 em São Francisco - CA, dedicada a educar e inspirar mulheres na busca e destaque em carreiras tecnológicas.  
+Women Who Code é uma organização global, fundada no final de 2011 em São Francisco - CA, dedicada a educar e inspirar mulheres na busca e destaque em carreiras tecnológicas.
 
 O grupo de Recife foi fundado em 8 de Janeiro de 2014 com grande apoio e motivação de 9 meninas, sendo 7 de Recife e 2 de São Francisco - CA , todas com o mesmo objetivo de aprender!
 
@@ -178,7 +179,7 @@ O grupo de Recife foi fundado em 8 de Janeiro de 2014 com grande apoio e motiva�
 
 - Inspirar mulheres a exercer carreiras em tecnologia
 - Capacitá-las com habilidades necessárias de modo a facilitar sua inclusão no mercado de TI.
-- Encontrar oportunidades de liderança que permitam a expansão do conhecimento e o crescimento de sua carreira. 
+- Encontrar oportunidades de liderança que permitam a expansão do conhecimento e o crescimento de sua carreira.
 - Dar suporte à companhias para que possam melhor promover mulheres de talento.
 - Construir uma comunidade global na qual a mentoria e o networking seja valorizada.
 
@@ -191,7 +192,7 @@ O grupo de Recife foi fundado em 8 de Janeiro de 2014 com grande apoio e motiva�
 
 ## Pyladies
 
-### Descrição 
+### Descrição
 O PyLadies Recife é grupo para instigar mulheres para área de computação e serem líderes da comunidades Python de código aberto. Nós fazemos encontros mensal onde oferecemos palestras voltadas a diversos temas e também relacionados a Python.
 
 ### Objetivos
@@ -208,7 +209,7 @@ O PyLadies Recife é grupo para instigar mulheres para área de computação e s
 
 ## Developer Circles Recife
 
-### Descrição 
+### Descrição
 O Developer Circles Recife é uma comunidade apoiada pelo Facebook com o objetivo de empoderar e conectar pessoas desenvolvedoras para que elas possam realizar impacto na sociedade. Nós, como comunidade, criamos eventos, meetups e workshops para trazer discussões de assuntos tecnológicos que possam agregar e oferecer conteúdo relevante a todos.
 
 ### Objetivos
@@ -220,7 +221,7 @@ O Developer Circles Recife é uma comunidade apoiada pelo Facebook com o objetiv
 
 ## React Recife
 
-### Descrição 
+### Descrição
 Grupo para unir e fortalecer o ecossistema de React no Recife.
 
 ### Objetivos
@@ -234,9 +235,24 @@ Grupo para unir e fortalecer o ecossistema de React no Recife.
 - [Twitter](https://twitter.com/reactrecife)
 - [Email](reactrec@gmail.com)
 
+## GraphQL Recife
+
+### Descrição
+Maior Meetup de GraphQL em linha reta da America Latina.
+Um espaço para reunir pessoas que já estão usando ou que tem interesse em usar GraphQL.
+
+### Objetivos
+Temos por objetivo compartilhar aprendizado e experiências de usar GraphQL em produção, como também produzir conteúdo regional, engajar novos adeptos da linguagem. Além de promover o desenvolvimento pessoal, networking e da comunidade.
+
+### Canais
+- [Meetup](https://www.meetup.com/GraphQL-Recife/)
+- [Twitter](https://twitter.com/graphqlrecife)
+- [Telegram](https://t.me/graphqlrecife)
+- [GitHub](https://github.com/graphqlrecife)
+
 ## Sua comunidade
 
-### Descrição 
+### Descrição
 Comunidades são sempre bem vindas por aqui, crie um fork do repositório, adicione a sua comunidade e faça um Pull Request, [um guia mais completo de contribuição está disponível aqui.](https://github.com/ReciHub/Hub-de-Comunidades/blob/master/Contribuindo.md)
 
 ### Objetivos
