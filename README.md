@@ -19,6 +19,7 @@ _Mapeamento das comunidades de tecnologia mais **arretadas** do estado de Pernam
 - [Developer Circles Recife](#developer-circles-recife)
 - [React Recife](#react-recife)
 - [GraphQL Recife](#graphql-recife)
+- [IFPE Open Source](#ifpe-open-source)
 <br>
 
 ## ReciHub
@@ -250,6 +251,20 @@ Temos por objetivo compartilhar aprendizado e experiências de usar GraphQL em p
 - [Twitter](https://twitter.com/graphqlrecife)
 - [Telegram](https://t.me/graphqlrecife)
 - [GitHub](https://github.com/graphqlrecife)
+
+## IFPE Open Source
+
+### Descrição
+Somos uma comunidade de alunos (do Médio ao Superior) do Institudo Federal de Pernambuco interessados em computação, programação, cultura maker e tecnologia em geral. Possuímos projetos open-source desenvolvidos em colaboração pelos alunos e também organizamos workshops e palestras sobre os mais variados assuntos da tecnologia.
+
+### Objetivos
+Promover projetos onde a comunidade de alunos do IFPE possa usar a tecnologia para criar soluções, compartilhá-las com os outros e colocar os conhecimentos em prática.
+
+### Canais
+- [Site oficial](https://www.ifpeopensource.com.br/)
+- [Discord](https://discord.gg/QjvN9HRA6C)
+- [Instagram](https://www.instagram.com/ifpeopensource/)
+- [GitHub](https://github.com/ifpeopensource)
 
 ## Sua comunidade
 
