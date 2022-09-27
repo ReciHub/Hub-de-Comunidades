@@ -20,6 +20,7 @@ _Mapeamento das comunidades de tecnologia mais **arretadas** do estado de Pernam
 - [React Recife](#react-recife)
 - [GraphQL Recife](#graphql-recife)
 - [IFPE Open Source](#ifpe-open-source)
+- [Hack GRRRL](#hack-grrrl)
 <br>
 
 ## ReciHub
@@ -265,6 +266,21 @@ Promover projetos onde a comunidade de alunos do IFPE possa usar a tecnologia pa
 - [Discord](https://discord.gg/QjvN9HRA6C)
 - [Instagram](https://www.instagram.com/ifpeopensource/)
 - [GitHub](https://github.com/ifpeopensource)
+
+## Hack GRRRL
+
+### Descrição
+A Hack Grrrl é uma hackathon de maioria feminina, evento para desenvolvimento de aplicações com duração entre 24 a 48 horas, que busca reunir equipes multidisciplinares para resolver um problema de acordo com o tema apresentado. Fundada 2019 em Recife-PE, sua primeira edição contou com 26 participantes de forma presencial para criação de soluções em Igualdade de Gênero. 
+
+### Objetivos
+A missão da Hack Grrrl é tornar o ambiente de hackathons e STEM (Ciência, Tecnologia, Engenharia e Matemática) mais acolhedor para mulheres e grupos historicamente não representados.
+
+### Canais
+- [Site oficial](https://hackgrrrl.com/)
+- [Instagram](https://www.instagram.com/hackgrrrl/)
+- [LinkedIn](https://www.linkedin.com/company/hack-grrrl/)
+- [Youtube](https://www.youtube.com/channel/UCAq130toesQL_rYWjeHGA-w)
+- [GitHub](https://github.com/hackgrrrl)
 
 ## Sua comunidade
 
