@@ -36,7 +36,6 @@ Ecossistema de criação de soluções incríveis
 
 ### Canais
 - [GitHub](https://github.com/ReciHub/BoasVindas)
-- [Slack](https://recihub.slack.com/join/shared_invite/enQtMjcxMDA3NDUzNTg3LTk5NzIzYmM2Y2QwMzQ5NGY5NDFmNmNlNzVkNzRjNTYwMTk3M2E0OWRkYzA1MmY1MjA2MThhZTUzNDVkZDBlMzU)
 - [Página no Facebook](https://facebook.com/recihub/)
 - [Grupo do Facebook](https://www.facebook.com/groups/153306045298627/)
 <br>
@@ -57,10 +56,9 @@ Comunidade de fomento a **Cultura Maker**
 - [Facebook](https://www.facebook.com/Makerama.br/)
 - [Instagram](https://www.instagram.com/makerama.br/)
 - [Twitter](https://twitter.com/makerama)
-- [Site](http://makerama.com.br/)
 <br>
 
-## VRPE
+## VRPE- [Slack](https://recihub.slack.com/join/shared_invite/enQtMjcxMDA3NDUzNTg3LTk5NzIzYmM2Y2QwMzQ5NGY5NDFmNmNlNzVkNzRjNTYwMTk3M2E0OWRkYzA1MmY1MjA2MThhZTUzNDVkZDBlMzU)
 
 ### Sobre
 Comunidade de Realidade Virtual de Pernambuco
@@ -84,7 +82,6 @@ Realizamos encontros em forma de palestras e workshops para divulgar a linguagem
 - [Google Groups](https://groups.google.com/forum/#!forum/pug-pe)
 - [Facebook](https://www.facebook.com/pugpe)
 - [Twitter](https://twitter.com/pugpe)
-- [Eventos](http://www.pug.pe)
 - [Website](http://pugpe.github.io)
 <br>
 
@@ -98,7 +95,6 @@ Precisamos de você para construímos uma comunidade mais rica, colaborativa e s
 
 ### Canais
 - [Facebook](https://www.facebook.com/groups/247260785715123/?ref=br_rs)
-- [Telegram](https://t.me/joinchat/A2nfP0NNXyU_ivF_TzD8DQ)
 <br>
 
 ## Geek Night Recife
@@ -123,8 +119,6 @@ O evento NÃO pode visar o lucro de um ou mais organizadores. É igualmente rest
 Trata-se de um evento para pessoas interessadas em aprender, evoluir e dividir conhecimentos relacionados ao front-end e tecnologias periféricas relacionadas.
 
 ### Canais
- - [Telegram](https://goo.gl/qp7Jrw)
- - [Meetup](https://bit.ly/2LtCpYx)
  - [Facebook](https://bit.ly/2zTiQEp)
  - [Github](https://github.com/FEMUGPE)
 <br>
@@ -236,7 +230,6 @@ Grupo para unir e fortalecer o ecossistema de React no Recife.
 - [Telegram](https://t.me/react_recife)
 - [Slack](https://react-brasil.github.io/react-brasil-slack/)
 - [Twitter](https://twitter.com/reactrecife)
-- [Email](reactrec@gmail.com)
 
 ## GraphQL Recife
 
