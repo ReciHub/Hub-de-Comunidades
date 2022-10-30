@@ -182,7 +182,7 @@ O grupo de Recife foi fundado em 8 de Janeiro de 2014 com grande apoio e motiva√
 
 ### Canais
  - [Site](https://www.womenwhocode.com/recife)
- - [Faceboook](https://www.facebook.com/groups/wwcrecife/)
+ - [Facebook](https://www.facebook.com/groups/wwcrecife/)
  - [Twitter](https://twitter.com/WWCode_Recife)
  - [Github](https://github.com/womenwhocoderecife)
 <br>
