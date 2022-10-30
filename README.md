@@ -199,7 +199,7 @@ PyLadies Recife é uma comunidade com objetivo de ajudar mais mulheres a se torn
 - Ter novos membros e engajar mais os membros já pertencentes
 
 ### Canais
-- [Instagram](https://www.instagram.com/pyladies.recife/)
+- [Instagram](https://www.instagram.com/pyladiesrecife/)
 - [Twitter](https://twitter.com/pyladies_recife)
 - [Facebook](https://www.facebook.com/pyladiesrecife/)
 - [WhatsApp](https://chat.whatsapp.com/IzWIofLs3h7HUAyCs5QexE)
