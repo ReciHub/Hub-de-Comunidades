@@ -59,7 +59,7 @@ Comunidade de fomento a **Cultura Maker**
 - [Twitter](https://twitter.com/makerama)
 <br>
 
-## VRPE- [Slack](https://recihub.slack.com/join/shared_invite/enQtMjcxMDA3NDUzNTg3LTk5NzIzYmM2Y2QwMzQ5NGY5NDFmNmNlNzVkNzRjNTYwMTk3M2E0OWRkYzA1MmY1MjA2MThhZTUzNDVkZDBlMzU)
+## VRPE
 
 ### Sobre
 Comunidade de Realidade Virtual de Pernambuco
