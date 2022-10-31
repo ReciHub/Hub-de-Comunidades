@@ -21,6 +21,7 @@ _Mapeamento das comunidades de tecnologia mais **arretadas** do estado de Pernam
 - [GraphQL Recife](#graphql-recife)
 - [IFPE Open Source](#ifpe-open-source)
 - [Hack GRRRL](#hack-grrrl)
+- [WiDS Recife](#wids-recife)
 <br>
 
 ## ReciHub
