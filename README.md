@@ -21,7 +21,7 @@ _Mapeamento das comunidades de tecnologia mais **arretadas** do estado de Pernam
 - [GraphQL Recife](#graphql-recife)
 - [IFPE Open Source](#ifpe-open-source)
 - [Hack GRRRL](#hack-grrrl)
-- [M.I.N.A.S](#m.i.n.a.s)
+- [M.I.N.A.S](#minas)
 <br>
 
 ## ReciHub
@@ -295,7 +295,7 @@ O programa MINAs foi criado com o objetivo de promover a equidade de gênero e e
 ### Canais
 - [Site oficial](https://minas.armazemdacriatividade.org/)
 - [Instagram](https://www.instagram.com/portodigitalminas/)
-- [Facebook]https://web.facebook.com/portodigitalminas?_rdc=1&_rdr
+- [Facebook](https://web.facebook.com/portodigitalminas?_rdc=1&_rdr)
 
 ## Sua comunidade
 
