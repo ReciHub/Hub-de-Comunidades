@@ -21,7 +21,9 @@ _Mapeamento das comunidades de tecnologia mais **arretadas** do estado de Pernam
 - [GraphQL Recife](#graphql-recife)
 - [IFPE Open Source](#ifpe-open-source)
 - [Hack GRRRL](#hack-grrrl)
+- [M.I.N.A.S](#minas)
 - [WiDS Recife](#wids-recife)
+
 <br>
 
 ## ReciHub
@@ -304,6 +306,21 @@ Fortalecer a presença feminina no mercado e na pesquisa na base de Ciência de 
 Grupo que visa fortalecer os estudos de User Experience (UX) no Recife com troca de vagas, conhecimentos e outros conteúdos.
 ### Canais
 - [Telegram](https://web.telegram.org/z/#-1449947515)
+=======
+## M.I.N.A.S
+
+### Descrição
+O MINAs – Mulheres em Inovação, Negócios e Artes – surge da vontade e necessidade de tornar o ambiente educacional e profissional da TIC e Economia Criativa em um ambiente que fosse pensado por e para mulheres, mais acolhedor, diverso, com igualdade de oportunidades e equidade de gênero.
+Por isso, as mulheres do Porto Digital se uniram para o programa de equidade de gênero do Porto Digital que mobiliza tecnologia social para incluir meninas e mulheres nas áreas de TIC e Economia Criativa por meio de qualificações, oficinas, clubes de programação e mentorias.
+
+### Objetivos
+O programa MINAs foi criado com o objetivo de promover a equidade de gênero e empoderamento feminino e tudo isso está alinhado com os objetivos de desenvolvimento sustentável da ONU (Agenda 2030) que aponta a igualdade de gênero como uma das metas prioritárias para o mundo.
+
+### Canais
+- [Site oficial](https://minas.armazemdacriatividade.org/)
+- [Instagram](https://www.instagram.com/portodigitalminas/)
+- [Facebook](https://web.facebook.com/portodigitalminas?_rdc=1&_rdr)
+
 
 ## Sua comunidade
 
