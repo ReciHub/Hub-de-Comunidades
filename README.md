@@ -298,6 +298,12 @@ Fortalecer a presença feminina no mercado e na pesquisa na base de Ciência de 
 - [Youtube](https://www.youtube.com/channel/UCA7tblpOhxRtgYZYDR33kBg)
 - [GitHub](https://github.com/widsrecife)
 
+## UXPE
+
+### Descrição
+Grupo que visa fortalecer os estudos de User Experience (UX) no Recife com troca de vagas, conhecimentos e outros conteúdos.
+### Canais
+- [Telegram](https://web.telegram.org/z/#-1449947515)
 
 ## Sua comunidade
 
