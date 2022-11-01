@@ -80,6 +80,7 @@ O PUG-PE (Python User Group Pernambuco) é uma comunidade de usuários (profissi
 Realizamos encontros em forma de palestras e workshops para divulgar a linguagem Python no estado, se deseja levar a linguagem a sua empresa, universidade ou qualquer outra instituição entre em contato conosco através da lista de e-mail do Google Groups
 
 ### Canais
+- [Telegram](https://t.me/pugpe)
 - [Google Groups](https://groups.google.com/forum/#!forum/pug-pe)
 - [Facebook](https://www.facebook.com/pugpe)
 - [Twitter](https://twitter.com/pugpe)
