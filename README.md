@@ -21,6 +21,7 @@ _Mapeamento das comunidades de tecnologia mais **arretadas** do estado de Pernam
 - [GraphQL Recife](#graphql-recife)
 - [IFPE Open Source](#ifpe-open-source)
 - [Hack GRRRL](#hack-grrrl)
+- [InspirAda na Computação](#inspirada-na-computação)
 - [M.I.N.A.S](#minas)
 <br>
 
@@ -278,6 +279,25 @@ A missão da Hack Grrrl é tornar o ambiente de hackathons e STEM (Ciência, Tec
 - [LinkedIn](https://www.linkedin.com/company/hack-grrrl/)
 - [Youtube](https://www.youtube.com/channel/UCAq130toesQL_rYWjeHGA-w)
 - [GitHub](https://github.com/hackgrrrl)
+
+## InspirAda na Computação
+
+### Descrição
+É um espaço de comunicação colaborativa para fortalecer a voz das pessoas que se identificam como mulheres na computação, ciência e tecnologia.
+
+### Objetivos
+- Trazer visibilidade para pessoas que se identificam como mulheres ou não-binárias;
+- Evidenciar as produções no âmbito da computação, ciência e tecnologia desse público;
+- Discutir assuntos importantes sobre Tecnologia e Sociedade;
+- Incentivar mais pessoas desse público a entrar na área ou produzir conteúdo.
+
+### Canais
+- [Site oficial](https://www.inspiradanacomputacao.com/)
+- [Instagram](https://www.instagram.com/inspiradanacomputacao/)
+- [LinkedIn](https://www.linkedin.com/company/inspiradanacomputacao)
+- [Youtube](https://www.youtube.com/channel/UC-d2KiNel6ZTCrwSTupXtgA)
+- [GitHub](https://github.com/inspiradanacomputacao)
+- [Telegram](https://t.me/inspiradanacomputacao)
 
 ## M.I.N.A.S
 
