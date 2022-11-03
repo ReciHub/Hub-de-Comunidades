@@ -21,6 +21,7 @@ _Mapeamento das comunidades de tecnologia mais **arretadas** do estado de Pernam
 - [GraphQL Recife](#graphql-recife)
 - [IFPE Open Source](#ifpe-open-source)
 - [Hack GRRRL](#hack-grrrl)
+- [InspirAda na Computação](#inspirada-na-computação)
 - [M.I.N.A.S](#minas)
 - [WiDS Recife](#wids-recife)
 
@@ -39,7 +40,6 @@ Ecossistema de criação de soluções incríveis
 
 ### Canais
 - [GitHub](https://github.com/ReciHub/BoasVindas)
-- [Slack](https://recihub.slack.com/join/shared_invite/enQtMjcxMDA3NDUzNTg3LTk5NzIzYmM2Y2QwMzQ5NGY5NDFmNmNlNzVkNzRjNTYwMTk3M2E0OWRkYzA1MmY1MjA2MThhZTUzNDVkZDBlMzU)
 - [Página no Facebook](https://facebook.com/recihub/)
 - [Grupo do Facebook](https://www.facebook.com/groups/153306045298627/)
 <br>
@@ -60,7 +60,6 @@ Comunidade de fomento a **Cultura Maker**
 - [Facebook](https://www.facebook.com/Makerama.br/)
 - [Instagram](https://www.instagram.com/makerama.br/)
 - [Twitter](https://twitter.com/makerama)
-- [Site](http://makerama.com.br/)
 <br>
 
 ## VRPE
@@ -84,10 +83,11 @@ O PUG-PE (Python User Group Pernambuco) é uma comunidade de usuários (profissi
 Realizamos encontros em forma de palestras e workshops para divulgar a linguagem Python no estado, se deseja levar a linguagem a sua empresa, universidade ou qualquer outra instituição entre em contato conosco através da lista de e-mail do Google Groups
 
 ### Canais
+- [Linktree](https://linktr.ee/pugpe)
+- [Telegram](https://t.me/pugpe)
 - [Google Groups](https://groups.google.com/forum/#!forum/pug-pe)
 - [Facebook](https://www.facebook.com/pugpe)
 - [Twitter](https://twitter.com/pugpe)
-- [Eventos](http://www.pug.pe)
 - [Website](http://pugpe.github.io)
 <br>
 
@@ -101,7 +101,6 @@ Precisamos de você para construímos uma comunidade mais rica, colaborativa e s
 
 ### Canais
 - [Facebook](https://www.facebook.com/groups/247260785715123/?ref=br_rs)
-- [Telegram](https://t.me/joinchat/A2nfP0NNXyU_ivF_TzD8DQ)
 <br>
 
 ## Geek Night Recife
@@ -126,8 +125,6 @@ O evento NÃO pode visar o lucro de um ou mais organizadores. É igualmente rest
 Trata-se de um evento para pessoas interessadas em aprender, evoluir e dividir conhecimentos relacionados ao front-end e tecnologias periféricas relacionadas.
 
 ### Canais
- - [Telegram](https://goo.gl/qp7Jrw)
- - [Meetup](https://bit.ly/2LtCpYx)
  - [Facebook](https://bit.ly/2zTiQEp)
  - [Github](https://github.com/FEMUGPE)
 <br>
@@ -190,7 +187,7 @@ O grupo de Recife foi fundado em 8 de Janeiro de 2014 com grande apoio e motiva�
 
 ### Canais
  - [Site](https://www.womenwhocode.com/recife)
- - [Faceboook](https://www.facebook.com/groups/wwcrecife/)
+ - [Facebook](https://www.facebook.com/groups/wwcrecife/)
  - [Twitter](https://twitter.com/WWCode_Recife)
  - [Github](https://github.com/womenwhocoderecife)
 <br>
@@ -207,7 +204,8 @@ PyLadies Recife é uma comunidade com objetivo de ajudar mais mulheres a se torn
 - Ter novos membros e engajar mais os membros já pertencentes
 
 ### Canais
-- [Instagram](https://www.instagram.com/pyladies.recife/)
+- [Telegram](https://t.me/pyladiesrecife)
+- [Instagram](https://www.instagram.com/pyladiesrecife/)
 - [Twitter](https://twitter.com/pyladies_recife)
 - [Facebook](https://www.facebook.com/pyladiesrecife/)
 - [WhatsApp](https://chat.whatsapp.com/IzWIofLs3h7HUAyCs5QexE)
@@ -239,7 +237,6 @@ Grupo para unir e fortalecer o ecossistema de React no Recife.
 - [Telegram](https://t.me/react_recife)
 - [Slack](https://react-brasil.github.io/react-brasil-slack/)
 - [Twitter](https://twitter.com/reactrecife)
-- [Email](reactrec@gmail.com)
 
 ## GraphQL Recife
 
@@ -285,6 +282,39 @@ A missão da Hack Grrrl é tornar o ambiente de hackathons e STEM (Ciência, Tec
 - [Youtube](https://www.youtube.com/channel/UCAq130toesQL_rYWjeHGA-w)
 - [GitHub](https://github.com/hackgrrrl)
 
+## InspirAda na Computação
+
+### Descrição
+É um espaço de comunicação colaborativa para fortalecer a voz das pessoas que se identificam como mulheres na computação, ciência e tecnologia.
+
+### Objetivos
+- Trazer visibilidade para pessoas que se identificam como mulheres ou não-binárias;
+- Evidenciar as produções no âmbito da computação, ciência e tecnologia desse público;
+- Discutir assuntos importantes sobre Tecnologia e Sociedade;
+- Incentivar mais pessoas desse público a entrar na área ou produzir conteúdo.
+
+### Canais
+- [Site oficial](https://www.inspiradanacomputacao.com/)
+- [Instagram](https://www.instagram.com/inspiradanacomputacao/)
+- [LinkedIn](https://www.linkedin.com/company/inspiradanacomputacao)
+- [Youtube](https://www.youtube.com/channel/UC-d2KiNel6ZTCrwSTupXtgA)
+- [GitHub](https://github.com/inspiradanacomputacao)
+- [Telegram](https://t.me/inspiradanacomputacao)
+
+## M.I.N.A.S
+
+### Descrição
+O MINAs – Mulheres em Inovação, Negócios e Artes – surge da vontade e necessidade de tornar o ambiente educacional e profissional da TIC e Economia Criativa em um ambiente que fosse pensado por e para mulheres, mais acolhedor, diverso, com igualdade de oportunidades e equidade de gênero.
+Por isso, as mulheres do Porto Digital se uniram para o programa de equidade de gênero do Porto Digital que mobiliza tecnologia social para incluir meninas e mulheres nas áreas de TIC e Economia Criativa por meio de qualificações, oficinas, clubes de programação e mentorias.
+
+### Objetivos
+O programa MINAs foi criado com o objetivo de promover a equidade de gênero e empoderamento feminino e tudo isso está alinhado com os objetivos de desenvolvimento sustentável da ONU (Agenda 2030) que aponta a igualdade de gênero como uma das metas prioritárias para o mundo.
+
+### Canais
+- [Site oficial](https://minas.armazemdacriatividade.org/)
+- [Instagram](https://www.instagram.com/portodigitalminas/)
+- [Facebook](https://web.facebook.com/portodigitalminas?_rdc=1&_rdr)
+
 ## WiDS Recife
 
 ### Descrição
@@ -306,21 +336,6 @@ Fortalecer a presença feminina no mercado e na pesquisa na base de Ciência de 
 Grupo que visa fortalecer os estudos de User Experience (UX) no Recife com troca de vagas, conhecimentos e outros conteúdos.
 ### Canais
 - [Telegram](https://web.telegram.org/z/#-1449947515)
-=======
-## M.I.N.A.S
-
-### Descrição
-O MINAs – Mulheres em Inovação, Negócios e Artes – surge da vontade e necessidade de tornar o ambiente educacional e profissional da TIC e Economia Criativa em um ambiente que fosse pensado por e para mulheres, mais acolhedor, diverso, com igualdade de oportunidades e equidade de gênero.
-Por isso, as mulheres do Porto Digital se uniram para o programa de equidade de gênero do Porto Digital que mobiliza tecnologia social para incluir meninas e mulheres nas áreas de TIC e Economia Criativa por meio de qualificações, oficinas, clubes de programação e mentorias.
-
-### Objetivos
-O programa MINAs foi criado com o objetivo de promover a equidade de gênero e empoderamento feminino e tudo isso está alinhado com os objetivos de desenvolvimento sustentável da ONU (Agenda 2030) que aponta a igualdade de gênero como uma das metas prioritárias para o mundo.
-
-### Canais
-- [Site oficial](https://minas.armazemdacriatividade.org/)
-- [Instagram](https://www.instagram.com/portodigitalminas/)
-- [Facebook](https://web.facebook.com/portodigitalminas?_rdc=1&_rdr)
-
 
 ## Sua comunidade
 
