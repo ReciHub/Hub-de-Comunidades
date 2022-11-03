@@ -23,6 +23,8 @@ _Mapeamento das comunidades de tecnologia mais **arretadas** do estado de Pernam
 - [Hack GRRRL](#hack-grrrl)
 - [InspirAda na Computação](#inspirada-na-computação)
 - [M.I.N.A.S](#minas)
+- [WiDS Recife](#wids-recife)
+
 <br>
 
 ## ReciHub
@@ -268,7 +270,7 @@ Promover projetos onde a comunidade de alunos do IFPE possa usar a tecnologia pa
 ## Hack GRRRL
 
 ### Descrição
-A Hack Grrrl é uma hackathon de maioria feminina, evento para desenvolvimento de aplicações com duração entre 24 a 48 horas, que busca reunir equipes multidisciplinares para resolver um problema de acordo com o tema apresentado. Fundada 2019 em Recife-PE, sua primeira edição contou com 26 participantes de forma presencial para criação de soluções em Igualdade de Gênero. 
+A Hack Grrrl é uma hackathon de maioria feminina, evento para desenvolvimento de aplicações com duração entre 24 a 48 horas, que busca reunir equipes multidisciplinares para resolver um problema de acordo com o tema apresentado. Fundada 2019 em Recife-PE, sua primeira edição contou com 26 participantes de forma presencial para criação de soluções em Igualdade de Gênero.
 
 ### Objetivos
 A missão da Hack Grrrl é tornar o ambiente de hackathons e STEM (Ciência, Tecnologia, Engenharia e Matemática) mais acolhedor para mulheres e grupos historicamente não representados.
@@ -312,6 +314,28 @@ O programa MINAs foi criado com o objetivo de promover a equidade de gênero e e
 - [Site oficial](https://minas.armazemdacriatividade.org/)
 - [Instagram](https://www.instagram.com/portodigitalminas/)
 - [Facebook](https://web.facebook.com/portodigitalminas?_rdc=1&_rdr)
+
+## WiDS Recife
+
+### Descrição
+Women in Data Science Recife é um evento independente organizado por embaixadoras (veja quem são aqui) como parte da conferência anual WiDS Worldwide organizada pela Universidade de Stanford e em mais de 200 locais em todo o mundo, que apresenta mulheres excepcionais fazendo trabalhos notáveis no campo da ciência de dados. Pessoas de todos os gêneros estão convidados a participar dos eventos que fazem parte da conferência WiDS Worldwide.
+
+### Objetivos
+Fortalecer a presença feminina no mercado e na pesquisa na base de Ciência de Dados no cenário recifense de tecnologia.
+
+### Canais
+- [Site oficial](https://www.widsrecife.com.br/index.html)
+- [Instagram](https://www.instagram.com/widsrecife/)
+- [LinkedIn](https://www.linkedin.com/company/women-in-data-science-recife/)
+- [Youtube](https://www.youtube.com/channel/UCA7tblpOhxRtgYZYDR33kBg)
+- [GitHub](https://github.com/widsrecife)
+
+## UXPE
+
+### Descrição
+Grupo que visa fortalecer os estudos de User Experience (UX) no Recife com troca de vagas, conhecimentos e outros conteúdos.
+### Canais
+- [Telegram](https://web.telegram.org/z/#-1449947515)
 
 ## Sua comunidade
 
